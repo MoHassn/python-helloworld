@@ -12,5 +12,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: mohamedhassan4/mohamedhassan4/python-helloworld
+          repository: mohamedhassan4/python-helloworld
           tag_with_ref: true
